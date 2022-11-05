@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@christiandavid/gatsby-theme-byfolio": "*",
-    "gatsby": "^2.18.12",
+    "gatsby": "^3.0.0",
     "gatsby-plugin-google-gtag": "^1.1.19",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
